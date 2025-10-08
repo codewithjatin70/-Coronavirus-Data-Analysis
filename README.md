@@ -160,11 +160,11 @@ pip install -r requirements.txt
 
 ## 📸 Demo Screenshot
 
-*(Add an image of your terminal or Jupyter output here)*
 
-```markdown
-![Demo Screenshot](demo_output.png)
-```
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/86b796cb-bb6f-48c9-8c06-4e4c4826c981" />
+
+
 
 ---
 
@@ -181,6 +181,6 @@ After completing this project, you’ll be able to:
 
 ## 🧑‍💻 Author
 
-**👨‍💻 Created by:** [Jatin Sharma
+**👨‍💻 Created by:** Jatin Sharma
 **📧 Contact:** [[your.email@example.com](mailto:factallforyou@gmail.com)]
 **🌐 GitHub:** [https://github.com/codewithjatin70/-Coronavirus-Data-Analysi](https://github.com/codewithjatin70/-Coronavirus-Data-Analysis)
