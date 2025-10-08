@@ -178,9 +178,14 @@ After completing this project, you’ll be able to:
 * Build beginner-friendly Data Science projects
 
 ---
-
+          
 ## 🧑‍💻 Author
 
 **👨‍💻 Created by:** Jatin Sharma
-**📧 Contact:** [[your.email@example.com](mailto:factallforyou@gmail.com)]
+**📧 Contact:** factallforyou@gmail.com 
 **🌐 GitHub:** [https://github.com/codewithjatin70/-Coronavirus-Data-Analysi](https://github.com/codewithjatin70/-Coronavirus-Data-Analysis)
+
+
+
+
+
